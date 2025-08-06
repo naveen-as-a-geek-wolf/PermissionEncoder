@@ -1,0 +1,14 @@
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\bin\Debug\net9.0\PermissionEncoderApp.exe
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\bin\Debug\net9.0\PermissionEncoderApp.deps.json
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\bin\Debug\net9.0\PermissionEncoderApp.runtimeconfig.json
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\bin\Debug\net9.0\PermissionEncoderApp.dll
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\bin\Debug\net9.0\PermissionEncoderApp.pdb
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\PermissionEncoderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\PermissionEncoderApp.AssemblyInfoInputs.cache
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\PermissionEncoderApp.AssemblyInfo.cs
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\PermissionEncoderApp.csproj.CoreCompileInputs.cache
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\PermissionEncoderApp.dll
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\refint\PermissionEncoderApp.dll
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\PermissionEncoderApp.pdb
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\PermissionEncoderApp.genruntimeconfig.cache
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\ref\PermissionEncoderApp.dll
