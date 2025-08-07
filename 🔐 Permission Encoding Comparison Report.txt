@@ -6,7 +6,7 @@ Includes: Delta Encoders & Character Analysis
 Purpose: Evaluate storage size and encoding efficiency for permission datasets.
 
 
-1. Permission Encoder (Base62)
+1. Permission Encoder (Base62 with Bitwise)
 
  DyPiVR2ULsprHVoxYVRYT1Qlu89da30PsAH0wePlqk5KQImF0APwlRqARXt5tPvxSh2FxzBMjP1vAnWk8wEqwXEdPQ43xMu2lW5rtO4Dxpo1jKfW7KRVkol3ww9OiDpQlsB2d8LJeOIHoj7acJYBfaULte2gcDRLilUeaA1nHt2ONZdQAYK6CHOoUX5GiBx4fyasIZhxmiwaHrM5vvM1lqmRkDOMtehynkikVsGT8QicbDwnuYNN2f5mVm7HDYBmsbBZlLPmsHe09pGfHeaISfwmqibb3Ct4SY6ExtUiUyPG79oR56WvsbKh9Gwau28sbtyxD
                                                                           325 B
@@ -23,7 +23,7 @@ H4sIAAAAAAAACsVUwW7FMAj7IR9iO4Tw/z82RdMO26p1bV43cQJjiEmIwW+mg9gZ8oGeZ5yZbjOvc3SQ
 
 —----------------------------------------------------------------------------------------------------------------------
 
-4 Permission Encoder Base91
+4 Permission Encoder (Base91 with Bitwise)
 
 af)AAAAAAAjX;Qr@>W+W<k{[&g2M15+21gXv|))Tgg00RIx[cH~U.BBE`QeD:u@ydkA.55UbTQ`t}Ss)8H8s,C;m4}.brU4o[X!;c`a=){SZC}Kr#A7H04]s|Uc"MeW,31O4(HQ?(cJN],59^Lp^nL%F>CW)q&*]t@K(.VAK`W;bcEChq/6k:NI{c}}1+8Fl8[|C<M[ZsYz`/:yI`Znyj7;FTlZtFVT0qGGf;eqQvys!m+bWZwGkzo0(Htex*HqpTuV86=#|{]w*8/5/eSw~A(./36#{[6EP_yEWDEL=6|Hi*zQ6S[DAA
 
