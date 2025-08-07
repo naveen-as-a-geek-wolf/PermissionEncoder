@@ -1,4 +1,6 @@
-﻿🔐 Permission Encoding Comparison Report
+﻿
+🔐 Permission Encoding Comparison Report
+
 Compression Techniques: Base62, Base64, Unicode, Base91
 Includes: Delta Encoders & Character Analysis
 Purpose: Evaluate storage size and encoding efficiency for permission datasets.

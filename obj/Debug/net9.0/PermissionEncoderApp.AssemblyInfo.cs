@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PermissionEncoderApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69d9a2f8853a38f31c53006a4b54e29fde971d66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e00f814b1224a4dfec9b85f09fc2594d9671e56e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PermissionEncoderApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PermissionEncoderApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
