@@ -12,3 +12,4 @@ C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\n
 C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\PermissionEncoderApp.pdb
 C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\PermissionEncoderApp.genruntimeconfig.cache
 C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\ref\PermissionEncoderApp.dll
+C:\Users\navaneeth.krishna\Desktop\backendworks\PermissionEncoderApp\obj\Debug\net9.0\PermissionEncoderApp.sourcelink.json
